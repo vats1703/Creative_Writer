@@ -12,7 +12,7 @@ Creative Writers and LLMs is a small local application that leverages open-sourc
 
 
 
-![Screenshot of Output Example](path/to/your/screenshot2.png)
+![Screenshot of Output Example](Snapshot_Creative_Writer.png)
 
 ## Requirements
 
